@@ -1,4 +1,4 @@
-package com.tender.servlet;
+package com.muru.sample.servlet;
 
 import java.io.IOException;
 

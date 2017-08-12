@@ -1,4 +1,4 @@
-package com.tender.model;
+package com.muru.sample.model;
 
 public class User {
 	

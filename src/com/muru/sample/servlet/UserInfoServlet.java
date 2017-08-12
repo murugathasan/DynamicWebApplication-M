@@ -1,4 +1,4 @@
-package com.tender.servlet;
+package com.muru.sample.servlet;
 
 import java.io.IOException;
 
@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.tender.model.User;
+import com.muru.sample.model.User;
 
 public class UserInfoServlet extends HttpServlet {
 	
